@@ -24,6 +24,16 @@ html {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 10rem;
-  flex-flow: column;
+  font-size: 5rem;
+}
+.boom {
+  padding: 31rem;
+}
+.box {
+  width: 100vw;
+  height: 150vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 5rem;
 }
